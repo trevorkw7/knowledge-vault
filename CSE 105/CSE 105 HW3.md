@@ -1,0 +1,1 @@
+5. $L=\{ 0^n 1^{2n}0^m \mid n\geq 1, m\geq 0 \} \cup \epsilon$  

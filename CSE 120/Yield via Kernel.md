@@ -1,0 +1,4 @@
+- Yield routine code is inside the kernel
+- Process contexts are also in the kernel
+- Kernel has text, data, and multiple stacks
+- 

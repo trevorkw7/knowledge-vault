@@ -1,0 +1,17 @@
+- Assuming architecture is the same
+- Given a source model $S$ (fully annotated with lots of images) we can pre-train a network on this and "transfer" its learning to train a CNN for our target dataset $T$ 
+- This works by assuming that parameters of $S$ are already a good start near our final local optimum
+- We can use these as initial parameters for our new CNN for target dataset T
+- Works if T is relatively big
+- Method 1: If T is small
+	- We tune the final loss layer which is essentially "the classifier"
+		- Same labels -> keep the weights from hs
+		- Different lables -> delete layer and start over
+- Method 2: If T is small
+	- Completely delete last layer
+- Method 3: If T is larger
+	- Need to change upper convolutional layers (face, wheel detectors,) since they contain higher level generic information, edges and corners tend to stay the same
+- Method 4: T is huge
+	- Reclaim starting from lower layers
+- Dimensionality doesn't matter
+- Learning rate: Start by reducing learning rate by a factor of 10 for layers initialized from $h_s$ because network is already near optimum

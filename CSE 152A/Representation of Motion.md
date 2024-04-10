@@ -1,0 +1,2 @@
+- Measure motion through visual cues using mathematical techniques with optical flow
+- Structure from motion

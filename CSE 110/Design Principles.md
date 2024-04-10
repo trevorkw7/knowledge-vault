@@ -1,0 +1,22 @@
+## Principles
+- Single responsibility principle: every object should have one responsibility and object's services should be focused on carrying out that one responsibility
+	- Each class shouldn't rely on things going on in other classes
+	- To spot multiple responsibilities, for each method in a class you should be able to say that: "The *className* *method* itself"
+	- Move methods in the current class that don't make sense into their own appropriate classes
+	- The job of a class is to coordinate the parts of it
+		- Class shouldn't be initializing its members (car shouldn't initialize tire), should instead pass in tire: Car myCar = new Car(new Tire(18))
+	- Example: Person object
+		- SRP: isLeftHanded(), isWet()
+		- Not SRP: getSpouseName()
+	- Dependency Inversion: Removes the dependency of 2 classes on each other
+		- We can do this by using an interface instead of inheritance 
+- Don't repeat yourself principle (DRY): avoid duplicate code by abstracting common things and putting them into a single location
+- "Good Enough Design": Spending too much time on making a perfect design means that deadlines aren't done since perfection is a moving target
+- **Has a** vs **Is a** relationship
+	- Inheritence  -> is a relationship
+		- Tiger is a always behaves like a mammal so Tiger **Is a** mammal
+		- Should not subclass just to access implementation
+	- Composition (one class stores another type defined by another class) -> is a relationship
+		- Declares a field
+		- If a Bengal Tiger needs Fangs, make it have a Fang field 
+		- Car has a Toyo field

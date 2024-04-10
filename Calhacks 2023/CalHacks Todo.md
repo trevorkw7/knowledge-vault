@@ -1,0 +1,3 @@
+- Get resume review from intel
+- Sweater from wispr
+- 

@@ -1,0 +1,1 @@
+- Photometric stereo - used to create effects seen in CGI movies

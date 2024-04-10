@@ -1,0 +1,5 @@
+- Verification: Is that a bus
+- Detection: Are there cars
+- Identification: Who is that person
+- These are all classification problems
+- ML is part of a vision solving technique called "data-driven vision"

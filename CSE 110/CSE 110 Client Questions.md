@@ -1,0 +1,5 @@
+1. Should the application have a splash screen upon startup? (new)
+2. What should the default order be for the list of recipes she's already created? (already asked)
+3. What should the app behavior be if the user's voice input contains irrelevant requests that are not supported (i.e. asking for dietary restrictions, allergies, etc.)?  (new)
+4. What specifically about the recipe should Caitlin be able to edit? Should she be able to give the recipe a custom name? (new)
+5. Does the application save the user's edits live as makes changes to the recipe or does the user have to click a save button every time they want their changes saved? (already asked)

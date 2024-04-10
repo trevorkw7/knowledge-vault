@@ -1,0 +1,13 @@
+- Register File
+- 45 Transistors, right next to ALU, gets hot
+- SRAM
+	- Separated into cache levels
+		- L1 - Runs loops in programming, if too big overflows into l2
+		- L2 - 
+		- L3 - Shared between CPUs, pass data between CPUs
+- DRAM
+	- Simple, 1 transistor with 1 capacitor, very compact
+	- Slowest
+	- Has to be refreshed -> read data out and write it back in 
+		- Because it leaks
+		- 

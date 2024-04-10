@@ -1,0 +1,3 @@
+- The area in the input field that is "seen" by the neuron
+- In the lower layers (layer 1,2,3) we usually capture edges and blobs so this has a smaller recipetive field
+- As we continue to pool going down the layers, the receptive field becomes wider, and eventually we have enough context 

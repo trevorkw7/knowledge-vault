@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "c7ef4e28b4b626c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "befc250eb8dc9e2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1593cd64f89900e5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2a43f25692140a80",
+    "type": "split",
+    "children": [
+      {
+        "id": "a91217a7d4f05436",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e67a6c6a8fef3b67",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          },
+          {
+            "id": "e56ea264cdc04bb6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "998f5f7e15c2f809",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 203.00390243530273
+  },
+  "right": {
+    "id": "e855edb8622abb85",
+    "type": "split",
+    "children": [
+      {
+        "id": "e285327b5f7495bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce5e1a0d1cedcdb0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ceb036c8ea47c061",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3d455f1d1695645a",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1.40029786081776,
+                  "lineSizeMultiplier": 2.38663349580287,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.05174309355457934,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "406b86651e2a943c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9d4b125ec2c4f06d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 357.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "1593cd64f89900e5",
+  "lastOpenFiles": [
+    "Untitled 1.canvas",
+    "Untitled 2.canvas",
+    "2023-10-21.md",
+    "Untitled 3.canvas",
+    "Untitled.canvas",
+    "CSE 105/Empty String.md",
+    "CSE 110/UML Class Diagrams.md",
+    "CSE 110/Unified Modeling Diagram.md",
+    "CSE 105/Characters.md",
+    "CSE 105/OR.md",
+    "CSE 105/Cardinality.md",
+    "CSE 105/Class Strategies.md",
+    "ECE 65/NPN Transistor.md",
+    "Untitled.md",
+    "Home.md",
+    "CSE 110/Code Structure.md",
+    "CSE 105/Regular Operations.md",
+    "CSE 105/Complementation.md",
+    "CSE 110/CSE 110 Client Questions.md",
+    "ECE 65/Practical Peak Detector Calculation.md",
+    "Untitled 1.md",
+    "CSE 105/Intersection.md",
+    "Untitled 2.md",
+    "CSE 105/Building DFA Examples.md",
+    "CSE 105/Pumping Lennma.md",
+    "Random Note About Japan Project.md",
+    "CSE 105/Irregular Languages.md",
+    "Calhacks 2023/CalHacks Todo.md",
+    "CSE 105/Intersection Closure Proof For Languages Recognized by DFAs.md",
+    "Calhacks 2023",
+    "Untitled 4.canvas",
+    "Untitled 5.canvas",
+    "CSE 105",
+    "ECE 109",
+    "CSE 120",
+    "CSE 152A",
+    "CSE 140",
+    "Excalidraw",
+    "Media/Pasted image 20240409210322.png",
+    "Media/Pasted image 20240409184838.png",
+    "Media/Pasted image 20240119180327.png",
+    "Media/Pasted image 20240119173132.png",
+    "Media/Pasted image 20240119173115.png",
+    "Media/Screenshot 2024-01-19 at 1.41.39 PM.png",
+    "Media/Pasted image 20240119134201.png",
+    "Media/Pasted image 20240119134136.png",
+    "Media/Screenshot 2024-01-19 at 1.40.10 PM.png",
+    "Media/Pasted image 20240119134049.png",
+    "CSE 105/Word",
+    "CSE 150B",
+    "CSE 110"
+  ]
+}

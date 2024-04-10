@@ -1,0 +1,24 @@
+## Proof by Contradiction
+- Assume there is a decider $M_{ATM}$ that can decide $A_{TM}$ (defined in [[Undecidable Computational Problems]])
+- By definition for every TM $M$ and every string $w$
+	- Computation of $M_{ATM}$ on $<M,w>$ halts and accepts if w is in $L(M)$
+	- Computation of $M_{ATM}$ on $<M,w>$ halts and rejects if w is not in $L(M)$
+- Make a new TM D to contradict itself
+	- Define TM D = "On input $<M>$:
+		- Typecheck $<M>$
+		- Run $M_{ATM}$ on $<M, < M>>$"
+			- Running the input M on the encoding of itself through the decider
+		- If $M_{ATM}$ accepts, reject; if $M_{ATM}$, accept
+	- Since $M_{ATM}$ is a decider, $D$ is a decider 
+	- Consider running D on input $<D>$:
+		- Case 1: the $M_{ATM}$ computation halts and accepts
+			- The pair $<D, <<D>>$ is in $A_{TM}$ so $M_{ATM}$ accepts D
+			- Then D will reject $<D>$
+			- CONTRADICTION
+		- Case 2: computation halts and rejects
+			- The pair $<D, <<D>>$ is not in $A_{TM}$ so $M_{ATM}$ rejects D
+			- Then D will accept $<D>$
+			- CONTRADICTION
+- Since $M_{ATM}$ is impossible to build $A_{TM}$ is undecidable
+- D is supposed to do the opposite of what's in the diagnal cell, what happens when they meet?![[Pasted image 20231130230817.png]]
+- 

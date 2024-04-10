@@ -1,0 +1,8 @@
+1. (a) Given an increasing (or decreasing) sequence of events $\{E\}_{n=1}^{\infty}$, any probability law $P(\cdot)$ satisfies $\lim _{n \rightarrow \infty} P\left(E_{n}\right)= P\left(\lim _{n \rightarrow \infty} E_{n}\right)$.
+	- Idea of continuous probabilities, if events are decreasing on increasing in size, then the probability of the sequence of infinite events is equal to the limit of the probabilities of a sequence of events 
+1. (b) Given two random variables $X, Y$, their joint cumulative distribution function is given by $F(x, y)=P[X \leq x, Y \leq y]$, for all $-\infty<(x, y)<\infty$. In this case, the marginal (cumulative) distribution function of $X$ can be recovered as $F_{X}(x)=  \lim _{y \rightarrow \infty} F(x, y)$, and the marginal (cumulative) distribution function of $Y$ can be recovered as $F_{Y}(y)=\lim _{x \rightarrow \infty} F(x, y)$.
+	- Pretty self explanatory, basically defines the joint CDF (remember normal CDF defines likelihood that the random variable in the subscript will be less than or equal the input variable)
+	- Says that we can recover the normal CDFs from the joint by taking the limit of the Joint as the unused variable goes to infinity
+1. (c) Given two discrete random variables $X, Y$, their joint probability mass function is given by $p(x, y)=P[X=x, Y=y]$.  In this case, the marginal probability mass function of $X$ can be obtained as $p_{X}(x)=P[X=x]=\sum_{y: p(x, y)>0} p(x, y)$. Similarly, the marginal probability mass function of $Y$ can be obtained as $p_{Y}(y)=P[Y=y]=\sum_{x: p(x, y)>0} p(x, y)$.
+	- For discrete joint PMF p(x,y), we can recover marginal p(x) by summing all over joint PMF for all y values where p(x,y) isn't zero
+	

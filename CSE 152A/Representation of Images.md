@@ -1,0 +1,3 @@
+- Cameras produce data on a bunch of pixels
+- Need a mathematical representation for the camera and other objects
+- 

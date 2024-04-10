@@ -1,0 +1,2 @@
+- Abstraction of a running program is a [[Process]]
+- 

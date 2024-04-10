@@ -1,0 +1,4 @@
+- Format is: `type instance_name parameters`
+	- paramaters are `.a(a), .b(b), .c(c), .e(rsult)`
+	- Stuff in the parentheses are declared at test bench level and passed in
+	- Stuff outside the parentheses are defined as input at the module level (list of ports) with dot notation

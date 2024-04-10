@@ -1,0 +1,3 @@
+- Patches go through layers and eventually a loss function
+- Loss function is used for [[Back Propogation]]
+- When we define the fully connected layer (input and output size) then dimensionality matters 

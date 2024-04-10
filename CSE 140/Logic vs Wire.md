@@ -1,0 +1,2 @@
+- Was an addition with systemverilog
+- Can be used for everything wire is used for

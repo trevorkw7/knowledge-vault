@@ -1,0 +1,11 @@
+- Old
+	- Programs that process image to determine interesting features
+		- Distances
+		- Instances of objects
+		- Image information
+- New
+	- Understanding the world based on visual cues
+		- Generate realistic images
+		- Recognize across variations
+		- Interpret and describe in natural language
+			

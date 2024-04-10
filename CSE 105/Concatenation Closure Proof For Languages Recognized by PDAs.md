@@ -1,0 +1,6 @@
+- To concatenate two machines together that each recognize and individual language together we need a "dump state" that we epsilon transition to
+	- From: the accept states of Machine 1
+	- To: the start state of Machine 2
+	- That: empties the stack that doesn't consume any input or push anything to the stack but pops any character in $\Gamma$ out
+	- ![[Pasted image 20231107120814.png]]
+	- 
