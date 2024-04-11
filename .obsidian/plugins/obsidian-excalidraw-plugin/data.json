@@ -7,7 +7,7 @@
   "scriptFolderPath": "Excalidraw/Scripts",
   "compress": false,
   "autosave": true,
-  "autosaveInterval": 10000,
+  "autosaveInterval": 15000,
   "autosaveIntervalDesktop": 15000,
   "autosaveIntervalMobile": 10000,
   "drawingFilenamePrefix": "Drawing ",
@@ -82,7 +82,139 @@
     "type": "excalidrawlib",
     "version": 2,
     "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.1.3",
-    "libraryItems": []
+    "libraryItems": [
+      {
+        "id": "hWtIvFG-qpM-R5cLLEkly",
+        "status": "unpublished",
+        "elements": [
+          {
+            "type": "line",
+            "version": 71,
+            "versionNonce": 257432678,
+            "isDeleted": false,
+            "id": "TvgFpyDJcRvFsjy5_SCzJ",
+            "fillStyle": "solid",
+            "strokeWidth": 2,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "angle": 0,
+            "x": -241.72891235351562,
+            "y": -322.7747268676758,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "transparent",
+            "width": 487.4730224609375,
+            "height": 0,
+            "seed": 1597880442,
+            "groupIds": [],
+            "frameId": null,
+            "roundness": {
+              "type": 2
+            },
+            "boundElements": [],
+            "updated": 1712819715293,
+            "link": null,
+            "locked": false,
+            "startBinding": null,
+            "endBinding": null,
+            "lastCommittedPoint": null,
+            "startArrowhead": null,
+            "endArrowhead": null,
+            "points": [
+              [
+                0,
+                0
+              ],
+              [
+                487.4730224609375,
+                0
+              ]
+            ]
+          },
+          {
+            "type": "line",
+            "version": 79,
+            "versionNonce": 1979381030,
+            "isDeleted": false,
+            "id": "KbVbQtt7ZQiYNOQhzgWpV",
+            "fillStyle": "solid",
+            "strokeWidth": 2,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "angle": 0,
+            "x": 3.833343505859375,
+            "y": -321.40543365478516,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "transparent",
+            "width": 0,
+            "height": 216.35040283203125,
+            "seed": 2082709414,
+            "groupIds": [],
+            "frameId": null,
+            "roundness": {
+              "type": 2
+            },
+            "boundElements": [],
+            "updated": 1712819721858,
+            "link": null,
+            "locked": false,
+            "startBinding": null,
+            "endBinding": null,
+            "lastCommittedPoint": null,
+            "startArrowhead": null,
+            "endArrowhead": null,
+            "points": [
+              [
+                0,
+                0
+              ],
+              [
+                0,
+                -216.35040283203125
+              ]
+            ]
+          },
+          {
+            "type": "text",
+            "version": 28,
+            "versionNonce": 424598822,
+            "isDeleted": false,
+            "id": "J8IiaWOy",
+            "fillStyle": "solid",
+            "strokeWidth": 2,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "angle": 0,
+            "x": -2.165924072265625,
+            "y": -302.0536575317383,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "transparent",
+            "width": 13.759994506835938,
+            "height": 25,
+            "seed": 1555103462,
+            "groupIds": [],
+            "frameId": null,
+            "roundness": null,
+            "boundElements": [],
+            "updated": 1712819728876,
+            "link": null,
+            "locked": false,
+            "fontSize": 20,
+            "fontFamily": 1,
+            "text": "0",
+            "rawText": "0",
+            "textAlign": "left",
+            "verticalAlign": "top",
+            "containerId": null,
+            "originalText": "0",
+            "lineHeight": 1.25
+          }
+        ],
+        "created": 1712819777420
+      }
+    ]
   },
   "imageElementNotice": true,
   "mdSVGwidth": 500,
