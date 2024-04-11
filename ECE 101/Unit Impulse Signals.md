@@ -12,7 +12,8 @@ Tags::
 ---
 
 # Discrete Time Unit Impulse $\delta[n]$
-- Definition: $\delta[n]=\begin{cases} 1, n=0 \\ 0, n \neq 0\end{cases}$
+
+> Definition: $\delta[n]=\begin{cases} 1, n=0 \\ 0, n \neq 0\end{cases}$
 - Visual: ![[Drawing 2024-04-10 23.56.59.excalidraw]]
 - We can express the unit impulse by shifting the unit step to the right by 1 and subtracting
 	- $\delta[n] = u[n] - u[n-1]$

@@ -2,5 +2,8 @@
   "obsidian-latex-suite",
   "obsidian-annotator",
   "obsidian-excalidraw-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-admonition",
+  "calendar",
+  "obsidian-style-settings"
 ]

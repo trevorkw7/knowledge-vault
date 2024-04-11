@@ -1,8 +1,11 @@
 {
-  "accentColor": "#1fc7ff",
-  "interfaceFontFamily": "Futura,Academy Engraved LET",
+  "accentColor": "",
+  "interfaceFontFamily": "Inter,Futura,Academy Engraved LET",
   "translucency": false,
-  "cssTheme": "Encore",
-  "theme": "system",
-  "baseFontSize": 24
+  "cssTheme": "AnuPpuccin",
+  "theme": "obsidian",
+  "baseFontSize": 21,
+  "enabledCssSnippets": [
+    "Extended Colorschemes"
+  ]
 }

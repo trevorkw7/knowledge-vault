@@ -4,81 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3e3bef1d81632edd",
+        "id": "89baf1392f222f42",
         "type": "tabs",
         "children": [
           {
-            "id": "72d14fb6fe9e73f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ECE 101/Two Classes of Signals.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e1fb9554d3a96245",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-04-10 23.56.59.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "c4f2cf38501b27fb",
+            "id": "a42a5acfbbc60e10",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "ECE 101/Unit Impulse Signals.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7d0a897bf0a579f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ECE 101/Unit Impulse Signals.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0dd518513218c040",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ECE 101/ECE 101.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6947d7ee8977479b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSE 150B/PA1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,8 +48,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:ECE101",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -230,14 +171,21 @@
               "type": "git-history-view",
               "state": {}
             }
+          },
+          {
+            "id": "85413c0bdd507572",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
         "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 357.5,
-    "collapsed": true
+    "width": 357.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -250,35 +198,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7d0a897bf0a579f2",
+  "active": "a42a5acfbbc60e10",
   "lastOpenFiles": [
-    "ECE 101/Representation Property.md",
+    "Media/Unit Impulse Signals 2024-04-11 00.15.05.excalidraw.md",
     "ECE 101/Unit Impulse Signals.md",
-    "ECE 101/Two Classes of Signals.md",
-    "ECE 101/Sifting Property.md",
     "ECE 101/Sampling Property.md",
+    "ECE 101/Representation Property.md",
+    "CSE 150B/DFS and BFS.md",
+    "CSE 150B/Search Problems.md",
+    "CSE 150B/Separation Property.md",
+    "CSE 150B/Dijkstra.md",
+    "CSE 150B/A*.md",
+    "ECE 101/Two Classes of Signals.md",
+    "ECE 101/ECE 101.md",
+    "CSE 150B/PA1.md",
     "Excalidraw/Drawing 2024-04-10 23.56.59.excalidraw.md",
+    "Media/Unit Impulse Signals 2024-04-10 23.59.41.excalidraw.md",
+    "ECE 101/Sifting Property.md",
     "Media/Unit Impulse Signals 2024-04-11 00.43.45.excalidraw.md",
     "Media/Unit Impulse Signals 2024-04-11 00.40.36.excalidraw.md",
     "Media/Unit Impulse Signals 2024-04-11 00.37.26.excalidraw.md",
-    "Media/Unit Impulse Signals 2024-04-11 00.15.05.excalidraw.md",
-    "Media/Unit Impulse Signals 2024-04-10 23.59.41.excalidraw.md",
     "ECE 101/Untitled.md",
     "Media/Pasted image 20240410235150.png",
     "Templates/ECE 101 Template.md",
-    "ECE 101/ECE 101.md",
-    "CSE 150B/Dijkstra.md",
     "Untitled.canvas",
-    "CSE 150B/A*.md",
     "ECE 101",
-    "CSE 150B/Separation Property.md",
-    "CSE 150B/PA1.md",
     "Media/Pasted image 20240410011301.png",
-    "CSE 150B/Search Problems.md",
     "Excalidraw/Drawing 2024-04-10 00.29.34.excalidraw.md",
     "Untitled.md",
     "CSE 150B/CSE 150B.md",
-    "CSE 150B/DFS and BFS.md",
     "Untitled 1.md",
     "CSE 150B/Rename.md",
     "Templates/150B Note.md",
