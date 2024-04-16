@@ -8,9 +8,9 @@ tags:
 # 🌌 Course -> [[ECE 101]]
 ---
 
-1. [[Unit Impulse Signals]]
-	- $\delta(t)$ - continuous
-	- $\delta[n]$ - discrete
+1. Unit Impulse Signals
+	- $\delta(t)$ - [[Continuous Time Unit Step and Unit Impulse]]
+	- $\delta[n]$ - [[Discrete Time Unit Impulse Signals]]
 2. [[Complex Exponential Signals]]
 	- In the form $ce^{at}$ for continuous
 	- In the form $ce^{an}$ for discrete

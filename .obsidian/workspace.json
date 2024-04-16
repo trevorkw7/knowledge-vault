@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "89baf1392f222f42",
+        "id": "0d1000d5b2499ee4",
         "type": "tabs",
         "children": [
           {
-            "id": "a42a5acfbbc60e10",
+            "id": "17549fbb62351d4c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ECE 101/Unit Impulse Signals.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "sampling property",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.00390243530273
+    "width": 200.00390243530273
   },
   "right": {
     "id": "e855edb8622abb85",
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ECE 101/Unit Impulse Signals.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ECE 101/Unit Impulse Signals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +108,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "ECE 101/Unit Impulse Signals.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -159,9 +152,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ECE 101/Unit Impulse Signals.md"
-              }
+              "state": {}
             }
           },
           {
@@ -180,8 +171,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -198,59 +188,59 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a42a5acfbbc60e10",
+  "active": "17549fbb62351d4c",
   "lastOpenFiles": [
-    "Media/Unit Impulse Signals 2024-04-11 00.15.05.excalidraw.md",
-    "ECE 101/Unit Impulse Signals.md",
-    "ECE 101/Sampling Property.md",
-    "ECE 101/Representation Property.md",
-    "CSE 150B/DFS and BFS.md",
-    "CSE 150B/Search Problems.md",
-    "CSE 150B/Separation Property.md",
-    "CSE 150B/Dijkstra.md",
-    "CSE 150B/A*.md",
-    "ECE 101/Two Classes of Signals.md",
-    "ECE 101/ECE 101.md",
-    "CSE 150B/PA1.md",
-    "Excalidraw/Drawing 2024-04-10 23.56.59.excalidraw.md",
+    "Archive/CSE 105/Closure Proofs.md",
+    "Archive/CSE 105/CSE 105 MOC.md",
+    "ECE 101/Sampling Properties.md",
+    "ECE 101/Discrete Time Unit Impulse Signals.md",
     "Media/Unit Impulse Signals 2024-04-10 23.59.41.excalidraw.md",
-    "ECE 101/Sifting Property.md",
-    "Media/Unit Impulse Signals 2024-04-11 00.43.45.excalidraw.md",
-    "Media/Unit Impulse Signals 2024-04-11 00.40.36.excalidraw.md",
-    "Media/Unit Impulse Signals 2024-04-11 00.37.26.excalidraw.md",
-    "ECE 101/Untitled.md",
-    "Media/Pasted image 20240410235150.png",
-    "Templates/ECE 101 Template.md",
+    "ECE 101/Continuous Time Unit Step and Unit Impulse.md",
+    "ECE 101/Two Classes of Signals.md",
+    "ECE 101/DT Unit Impulse Signal Examples.md",
+    "ECE 101/Sampling Property for DT Unit Impulse.md",
+    "ECE 101/Sifting Properties.md",
+    "ECE 101/Representation Properties.md",
+    "BS MS ECE UCSD.md",
+    "CSE 156/LSTM RNNs.md",
+    "CSE 156/Multi-Layer.md",
+    "CSE 156/RNNs.md",
+    "Media/Pasted image 20240416104138.png",
+    "Media/Pasted image 20240416104136.png",
+    "CSE 156/Bidirectional RNNs.md",
+    "Media/Pasted image 20240416102651.png",
+    "Templates/CSE 156 Note.md",
+    "Templates/Course Note.md",
+    "CSE 156/CSE 156.md",
+    "CSE 156",
+    "CSE 150B/Search Problems.md",
+    "CSE 150B/PA1.md",
+    "CSE 150B/A*.md",
+    "CSE 150B/Dijkstra.md",
+    "CSE 150B/Separation Property.md",
+    "CSE 150B/DFS and BFS.md",
+    "CSE 150B/Separatio n Property.md",
+    "Planning",
+    "Media/Unit Impulse Signal Examples 2024-04-12 01.25.12.excalidraw.png",
+    "Media/Clicker 3.png",
+    "Media/Unit Impulse Signal Examples 2024-04-11 16.25.16.excalidraw.png",
+    "Media/Clicker 2.png",
+    "Media/Clicker 1.png",
+    "Media/Clicker .png",
+    "Media/Unit Impulse Signal Examples 2024-04-11 15.52.12.excalidraw.png",
+    "Archive",
     "Untitled.canvas",
     "ECE 101",
-    "Media/Pasted image 20240410011301.png",
-    "Excalidraw/Drawing 2024-04-10 00.29.34.excalidraw.md",
-    "Untitled.md",
-    "CSE 150B/CSE 150B.md",
-    "Untitled 1.md",
-    "CSE 150B/Rename.md",
-    "Templates/150B Note.md",
     "Templates",
     "untitled folder",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
     "Untitled 3.canvas",
-    "Calhacks 2023",
+    "Archive/Calhacks 2023",
     "Untitled 4.canvas",
     "Untitled 5.canvas",
-    "CSE 105",
-    "ECE 109",
-    "CSE 120",
-    "CSE 152A",
-    "CSE 140",
-    "Excalidraw",
-    "Media/Pasted image 20240409210322.png",
-    "Media/Pasted image 20240409184838.png",
-    "Media/Pasted image 20240119180327.png",
-    "Media/Pasted image 20240119173132.png",
-    "Media/Pasted image 20240119173115.png",
-    "Media/Screenshot 2024-01-19 at 1.41.39 PM.png",
-    "Media/Pasted image 20240119134201.png",
-    "Media/Pasted image 20240119134136.png"
+    "Archive/CSE 105",
+    "Archive/ECE 109",
+    "Archive/CSE 120"
   ]
 }

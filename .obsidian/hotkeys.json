@@ -24,5 +24,23 @@
       ],
       "key": "L"
     }
+  ],
+  "editor:save-file": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "S"
+    }
+  ],
+  "obsidian-excalidraw-plugin:save": [],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "S"
+    }
   ]
 }

@@ -5,7 +5,7 @@ tags:
   - ECE101
 ---
 # ❗❓ Information
-Related to:: [[Two Classes of Signals]]
+Related to:: [[Two Classes of Signals]] [[DT Unit Impulse Signal Examples]]
 Tags:: 
 
 # 🌌 Course -> [[ECE 101]]
@@ -19,10 +19,9 @@ Tags::
 	- $\delta[n] = u[n] - u[n-1]$
 ## Properties:
 - Assuming $x[n]$ is a DT signal we have the following properties
-
-[[Sampling Property]]
-[[Sifting Property]]
-[[Representation Property]]
+- [[Sampling Properties]]
+- [[Sifting Properties]]
+- [[Representation Properties]]
 
 # Discrete Time Unit Step $u[n]$
 - Definition: $u[n]=\begin{cases} 1, n\geq0 \\ 0, n < 0\end{cases}$
@@ -35,7 +34,7 @@ Tags::
 	- If n is negative we sum up a bunch of zeros resulting in a 0. If n is positive or 0, we sum a bunch of zeros, the 1 at $\delta[0]$, and more zeros, resulting in a 1.
 	- $u[n] = \sum^n_{l=-\infty}\delta[l]$
 	- Visual: ![[Unit Impulse Signals 2024-04-11 00.15.05.excalidraw]]
-3. A generalizable representation of $u[n]$ using the [[Representation Property]]:
+3. A generalizable representation of $u[n]$ using the [[Representation Properties]]:
 	- $u[n] = \sum_{k=-\infty}^\infty u[k]\delta[n-k]$
 	- Just the $\sum\delta[n-k]$ portion is just the unit impulse from $-\infty$ to $+\infty$, giving us stems with magnitude 1 across the board.
 	- Sum of all shifted unit impulses from $-\infty$ to $\infty$:![[Unit Impulse Signals 2024-04-11 00.37.26.excalidraw]]
@@ -43,5 +42,5 @@ Tags::
 - **This will generalize to arbitrary $x[n]$**
 		- $x[n] = \sum_{k=-\infty} ^\infty x[k]\delta[n-k]$
 		- "Builds the signal one stem at a time"![[Unit Impulse Signals 2024-04-11 00.43.45.excalidraw]]
-	- This is the intuition for the [[Representation Property]]
+	- This is the intuition for the [[Representation Properties]]
 

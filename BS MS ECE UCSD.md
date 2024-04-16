@@ -1,0 +1,26 @@
+- How did you pick your major / research area / specialization?
+	- Will still be able to change until start date
+- Heard that the work load for BS MS is designed in a way where it can be complimented with research or part time job, is that something you did when you went through the program yourself
+- Did you choose a thesis or testing?
+- Opportunities in the 1 year bs ms program compared to 2 year masters degrees at other institutions
+- How did you establish relationships with faculty and find mentors during your program?
+- New area of signal processing:
+	- ML on embedded systems, TinyML
+	- UW Notes 
+- Thesis Route -> Comp
+- PDF of Academic History
+- ### (Friday, May 17) - Due Date
+- Statement of Purpose
+	- 2 Pages Double Spaced
+- MS Program
+	- Required to maintain a 3.0 cumulative GPA
+	- Must be continually enrolled throughout the entire duration between undergrad and grad program, no gap quarters
+	- No double dipping for undergrad classes being counted for both bachelors and masters
+	- Minimum residency is 3 quarters for BS MS
+		- Waiver needed if finishing faster
+	- Maximum time limit is 6 quarters
+	- No more than 8 "U" and or "F" grades
+	- Thesis has 52 unit requirements, Comprehensive exam has 48 unit requirement
+- BS to MS Transition
+	- If we end up graduating earlier we can move ms start date up earlier
+	- Interested in research? SRIP program

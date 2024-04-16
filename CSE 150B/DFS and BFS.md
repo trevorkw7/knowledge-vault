@@ -1,3 +1,5 @@
+## General Idea
+- These are graph traversals, visits every node in the graph
 ## Comparison
 - DFS uses a stack
 	- Stack is the "frontier", keeps track of nodes that have been visited but not fully explored
