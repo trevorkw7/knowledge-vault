@@ -21,7 +21,10 @@ $\delta(t) = \begin{cases} 0, t \neq 0 \\ 1, t=0 \end{cases}$
 - Relation between $u(t)$ and $\delta(t)$ is that:
 	- $u(t) = \int_{-\infty}^t \delta(t) \, dx$
 	- This is because if $t < 0$ then the integral will be 0 and if $t \geq 0$ it will include the unit impulse and must be 1.
-- Continuous unit impulse properties are similar except for 
+- Continuous unit impulse properties are similar except summation is replaced with integration, $\delta[n], u[n]$ replaced with $d(t), u(t)$.
+	- [[Sampling Properties]]
+	- [[Sifting Properties]]
+	- [[Representation Properties]]
 
 
 
