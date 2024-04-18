@@ -4,35 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "374bc710b2431040",
+        "id": "3390c20c05544dd0",
         "type": "tabs",
         "children": [
           {
-            "id": "7ebd5e57e02f8c99",
+            "id": "f88d8cdec1971327",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE 101/Discrete Time Unit Impulse Signals.md",
+                "file": "ECE 101/Linear Property.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b280a09a1691f6e6",
+            "id": "a38fcb70fddad9f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE 101/Continuous Time Unit Step and Unit Impulse.md",
+                "file": "ECE 101/Scalable.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "78f82ff8c82f647f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE 101/Additive.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f773e1ca414c358",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE 101/System Properties.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dd4c599b5ca076b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE 101/Linear Property.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -82,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200.00390243530273
+    "width": 200.00390243530273,
+    "collapsed": true
   },
   "right": {
     "id": "e855edb8622abb85",
@@ -98,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ECE 101/Continuous Time Unit Step and Unit Impulse.md",
+                "file": "ECE 101/Linear Property.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ECE 101/Continuous Time Unit Step and Unit Impulse.md",
+                "file": "ECE 101/Linear Property.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +164,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "ECE 101/Continuous Time Unit Step and Unit Impulse.md",
+                "file": "ECE 101/Linear Property.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -173,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ECE 101/Continuous Time Unit Step and Unit Impulse.md"
+                "file": "ECE 101/Linear Property.md"
               }
             }
           },
@@ -193,11 +230,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 357.5
+    "width": 357.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,38 +249,40 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b280a09a1691f6e6",
+  "active": "dd4c599b5ca076b3",
   "lastOpenFiles": [
-    "ECE 101/Discrete Time Unit Impulse Signals.md",
+    "Media/Pasted image 20240418021004.png",
+    "ECE 101/System Properties.md",
+    "ECE 101/Time-Invariant Property.md",
+    "ECE 101/Linear Property.md",
+    "Media/Pasted image 20240418020905.png",
+    "ECE 101/Scalable.md",
+    "Nolan's Tips for the Tech Industry.md",
+    "ECE 101/Additive.md",
+    "ECE 101/Continuous Time CEs.md",
+    "ECE 101/Complex Exponential Signals.md",
+    "ECE 101/Two Classes of Signals.md",
     "ECE 101/Continuous Time Unit Step and Unit Impulse.md",
+    "Career",
+    "ECE 101/Representation Properties.md",
     "ECE 101/Sampling Properties.md",
-    "ECE 101/Sifting Properties.md",
+    "ECE 101/Discrete Time Unit Impulse Signals.md",
+    "CSE 156/Bidirectional RNNs.md",
     "ECE 101/ECE 101.md",
+    "ECE 101/Sifting Properties.md",
     "Archive/CSE 105/Closure Proofs.md",
     "Archive/CSE 105/CSE 105 MOC.md",
     "Media/Unit Impulse Signals 2024-04-10 23.59.41.excalidraw.md",
-    "ECE 101/Two Classes of Signals.md",
     "ECE 101/DT Unit Impulse Signal Examples.md",
     "ECE 101/Sampling Property for DT Unit Impulse.md",
-    "ECE 101/Representation Properties.md",
-    "BS MS ECE UCSD.md",
+    "Career/BS MS ECE UCSD.md",
     "CSE 156/LSTM RNNs.md",
     "CSE 156/Multi-Layer.md",
     "CSE 156/RNNs.md",
     "Media/Pasted image 20240416104138.png",
     "Media/Pasted image 20240416104136.png",
-    "CSE 156/Bidirectional RNNs.md",
     "Media/Pasted image 20240416102651.png",
-    "Templates/CSE 156 Note.md",
-    "Templates/Course Note.md",
-    "CSE 156/CSE 156.md",
     "CSE 156",
-    "CSE 150B/Search Problems.md",
-    "CSE 150B/PA1.md",
-    "CSE 150B/A*.md",
-    "CSE 150B/Dijkstra.md",
-    "CSE 150B/Separation Property.md",
-    "CSE 150B/DFS and BFS.md",
     "Planning",
     "Media/Unit Impulse Signal Examples 2024-04-12 01.25.12.excalidraw.png",
     "Media/Clicker 3.png",
@@ -249,7 +290,6 @@
     "Media/Clicker 2.png",
     "Media/Clicker 1.png",
     "Media/Clicker .png",
-    "Media/Unit Impulse Signal Examples 2024-04-11 15.52.12.excalidraw.png",
     "Archive",
     "Untitled.canvas",
     "ECE 101",
@@ -262,7 +302,6 @@
     "Untitled 4.canvas",
     "Untitled 5.canvas",
     "Archive/CSE 105",
-    "Archive/ECE 109",
-    "Archive/CSE 120"
+    "Archive/ECE 109"
   ]
 }
