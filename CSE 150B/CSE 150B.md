@@ -26,3 +26,4 @@
 
 ## Notes
 [[Search Problems]]
+[[PA 2 - 2048]]

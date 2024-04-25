@@ -4,59 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "3390c20c05544dd0",
+        "id": "b902e765eae07a54",
         "type": "tabs",
         "children": [
           {
-            "id": "f88d8cdec1971327",
+            "id": "a50e3ba1d12c2ef4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE 101/Linear Property.md",
+                "file": "CSE 150B/CSE 150B.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a38fcb70fddad9f7",
+            "id": "410bbf04ddbcecc9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE 101/Scalable.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "78f82ff8c82f647f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ECE 101/Additive.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f773e1ca414c358",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ECE 101/System Properties.md",
+                "file": "CSE 150B/PA 2 - 2048.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ECE 101/System Properties.md",
+                "file": "CSE 150B/PA 2 - 2048.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -140,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ECE 101/System Properties.md",
+                "file": "CSE 150B/PA 2 - 2048.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +128,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "ECE 101/System Properties.md",
+                "file": "CSE 150B/PA 2 - 2048.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -198,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ECE 101/System Properties.md"
+                "file": "CSE 150B/PA 2 - 2048.md"
               }
             }
           },
@@ -237,20 +213,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6f773e1ca414c358",
+  "active": "410bbf04ddbcecc9",
   "lastOpenFiles": [
-    "CSE 156/Readings/A Neural Probabilistic Language Model.md",
+    "CSE 150B/CSE 150B.md",
+    "CSE 150B/PA 2 - 2048.md",
     "ECE 101/Linear Property.md",
+    "ECE 101/Scalable.md",
+    "ECE 101/Additive.md",
     "ECE 101/System Properties.md",
+    "CSE 156/Readings/A Neural Probabilistic Language Model.md",
     "CSE 156/Readings/Last Words - Computational Linguistics and Deep Learning.md",
     "CSE 156/Readings",
     "Untitled",
     "Media/Pasted image 20240418021004.png",
     "ECE 101/Time-Invariant Property.md",
     "Media/Pasted image 20240418020905.png",
-    "ECE 101/Scalable.md",
     "Nolan's Tips for the Tech Industry.md",
-    "ECE 101/Additive.md",
     "ECE 101/Continuous Time CEs.md",
     "ECE 101/Complex Exponential Signals.md",
     "ECE 101/Two Classes of Signals.md",
@@ -268,8 +246,6 @@
     "ECE 101/DT Unit Impulse Signal Examples.md",
     "ECE 101/Sampling Property for DT Unit Impulse.md",
     "Career/BS MS ECE UCSD.md",
-    "CSE 156/LSTM RNNs.md",
-    "CSE 156/Multi-Layer.md",
     "Media/Pasted image 20240416104138.png",
     "Media/Pasted image 20240416104136.png",
     "Media/Pasted image 20240416102651.png",
