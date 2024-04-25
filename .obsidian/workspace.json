@@ -54,21 +54,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "dd4c599b5ca076b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ECE 101/Linear Property.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -135,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ECE 101/Linear Property.md",
+                "file": "ECE 101/System Properties.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -152,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ECE 101/Linear Property.md",
+                "file": "ECE 101/System Properties.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "ECE 101/Linear Property.md",
+                "file": "ECE 101/System Properties.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -210,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ECE 101/Linear Property.md"
+                "file": "ECE 101/System Properties.md"
               }
             }
           },
@@ -249,12 +237,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dd4c599b5ca076b3",
+  "active": "6f773e1ca414c358",
   "lastOpenFiles": [
-    "Media/Pasted image 20240418021004.png",
-    "ECE 101/System Properties.md",
-    "ECE 101/Time-Invariant Property.md",
+    "CSE 156/Readings/A Neural Probabilistic Language Model.md",
     "ECE 101/Linear Property.md",
+    "ECE 101/System Properties.md",
+    "CSE 156/Readings/Last Words - Computational Linguistics and Deep Learning.md",
+    "CSE 156/Readings",
+    "Untitled",
+    "Media/Pasted image 20240418021004.png",
+    "ECE 101/Time-Invariant Property.md",
     "Media/Pasted image 20240418020905.png",
     "ECE 101/Scalable.md",
     "Nolan's Tips for the Tech Industry.md",
@@ -278,7 +270,6 @@
     "Career/BS MS ECE UCSD.md",
     "CSE 156/LSTM RNNs.md",
     "CSE 156/Multi-Layer.md",
-    "CSE 156/RNNs.md",
     "Media/Pasted image 20240416104138.png",
     "Media/Pasted image 20240416104136.png",
     "Media/Pasted image 20240416102651.png",
@@ -289,7 +280,6 @@
     "Media/Unit Impulse Signal Examples 2024-04-11 16.25.16.excalidraw.png",
     "Media/Clicker 2.png",
     "Media/Clicker 1.png",
-    "Media/Clicker .png",
     "Archive",
     "Untitled.canvas",
     "ECE 101",
@@ -300,8 +290,6 @@
     "Untitled 3.canvas",
     "Archive/Calhacks 2023",
     "Untitled 4.canvas",
-    "Untitled 5.canvas",
-    "Archive/CSE 105",
-    "Archive/ECE 109"
+    "Untitled 5.canvas"
   ]
 }
