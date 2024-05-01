@@ -20,19 +20,16 @@
             }
           },
           {
-            "id": "410bbf04ddbcecc9",
+            "id": "549fd82789ef8935",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf-annotator",
               "state": {
-                "file": "CSE 150B/PA 2 - 2048.md",
-                "mode": "source",
-                "source": false
+                "file": "CSE 150B/Reading Annotations/Solving Problems By Searching.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSE 150B/PA 2 - 2048.md",
+                "file": "CSE 150B/CSE 150B.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -116,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSE 150B/PA 2 - 2048.md",
+                "file": "CSE 150B/CSE 150B.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CSE 150B/PA 2 - 2048.md",
+                "file": "CSE 150B/CSE 150B.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -174,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSE 150B/PA 2 - 2048.md"
+                "file": "CSE 150B/CSE 150B.md"
               }
             }
           },
@@ -213,14 +210,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "410bbf04ddbcecc9",
+  "active": "a50e3ba1d12c2ef4",
   "lastOpenFiles": [
-    "CSE 150B/CSE 150B.md",
+    "CSE 150B/Reading Annotations/Solving Problems By Searching.md",
+    "Media/AIMA Chapter 3.pdf",
     "CSE 150B/PA 2 - 2048.md",
+    "CSE 150B/CSE 150B.md",
+    "CSE 150B/Reading Annotations",
     "ECE 101/Linear Property.md",
+    "ECE 101/System Properties.md",
+    "ECE 101/BIBO Stability.md",
+    "ECE 101/Inevitability.md",
+    "ECE 101/Causal Property.md",
     "ECE 101/Scalable.md",
     "ECE 101/Additive.md",
-    "ECE 101/System Properties.md",
     "CSE 156/Readings/A Neural Probabilistic Language Model.md",
     "CSE 156/Readings/Last Words - Computational Linguistics and Deep Learning.md",
     "CSE 156/Readings",
@@ -241,11 +244,6 @@
     "ECE 101/ECE 101.md",
     "ECE 101/Sifting Properties.md",
     "Archive/CSE 105/Closure Proofs.md",
-    "Archive/CSE 105/CSE 105 MOC.md",
-    "Media/Unit Impulse Signals 2024-04-10 23.59.41.excalidraw.md",
-    "ECE 101/DT Unit Impulse Signal Examples.md",
-    "ECE 101/Sampling Property for DT Unit Impulse.md",
-    "Career/BS MS ECE UCSD.md",
     "Media/Pasted image 20240416104138.png",
     "Media/Pasted image 20240416104136.png",
     "Media/Pasted image 20240416102651.png",
@@ -260,11 +258,9 @@
     "Untitled.canvas",
     "ECE 101",
     "Templates",
-    "untitled folder",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
     "Untitled 3.canvas",
-    "Archive/Calhacks 2023",
     "Untitled 4.canvas",
     "Untitled 5.canvas"
   ]

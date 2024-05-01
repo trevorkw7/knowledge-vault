@@ -13,3 +13,6 @@ Tags::
 ---
 [[Linear Property]]
 [[Time-Invariant Property]]
+[[Causal Property]]
+[[Inevitability]]
+[[BIBO Stability]]
