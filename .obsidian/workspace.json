@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSE 150B/CSE 150B.md",
+                "file": "ECE 101/Periodic, Even, Odd Signals.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bed5a080235b86cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSE 156/Building a Transformer Based Language Model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "536ce3299e1af358",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE 101/Signals and Basic Operations.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,7 +53,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,7 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200.00390243530273,
+    "width": 344.00390243530273,
     "collapsed": true
   },
   "right": {
@@ -96,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSE 150B/CSE 150B.md",
+                "file": "CSE 156/Building a Transformer Based Language Model.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSE 150B/CSE 150B.md",
+                "file": "CSE 156/Building a Transformer Based Language Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CSE 150B/CSE 150B.md",
+                "file": "CSE 156/Building a Transformer Based Language Model.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -171,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSE 150B/CSE 150B.md"
+                "file": "CSE 156/Building a Transformer Based Language Model.md"
               }
             }
           },
@@ -210,16 +235,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a50e3ba1d12c2ef4",
+  "active": "bed5a080235b86cc",
   "lastOpenFiles": [
+    "Media/Pasted image 20240513192628.png",
+    "ECE 101/Periodic, Even, Odd Signals.md",
+    "CSE 156/Building a Transformer Based Language Model.md",
+    "ECE 101/ECE 101.md",
+    "ECE 101/Eigenfunction of LTI Systems.md",
+    "ECE 101/Signals and Basic Operations.md",
+    "ECE 101/System Properties.md",
+    "ECE 101/BIBO Stability.md",
+    "CSE 150B/CSE 150B.md",
     "CSE 150B/Reading Annotations/Solving Problems By Searching.md",
     "Media/AIMA Chapter 3.pdf",
     "CSE 150B/PA 2 - 2048.md",
-    "CSE 150B/CSE 150B.md",
     "CSE 150B/Reading Annotations",
     "ECE 101/Linear Property.md",
-    "ECE 101/System Properties.md",
-    "ECE 101/BIBO Stability.md",
     "ECE 101/Inevitability.md",
     "ECE 101/Causal Property.md",
     "ECE 101/Scalable.md",
@@ -239,11 +270,6 @@
     "Career",
     "ECE 101/Representation Properties.md",
     "ECE 101/Sampling Properties.md",
-    "ECE 101/Discrete Time Unit Impulse Signals.md",
-    "CSE 156/Bidirectional RNNs.md",
-    "ECE 101/ECE 101.md",
-    "ECE 101/Sifting Properties.md",
-    "Archive/CSE 105/Closure Proofs.md",
     "Media/Pasted image 20240416104138.png",
     "Media/Pasted image 20240416104136.png",
     "Media/Pasted image 20240416102651.png",
