@@ -1,4 +1,4 @@
-- How did you pick your major / research area / specialization?
+     - How did you pick your major / research area / specialization?
 	- Will still be able to change until start date
 - Heard that the work load for BS MS is designed in a way where it can be complimented with research or part time job, is that something you did when you went through the program yourself
 - Did you choose a thesis or testing?

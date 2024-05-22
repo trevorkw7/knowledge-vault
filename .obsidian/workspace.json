@@ -4,52 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "b902e765eae07a54",
+        "id": "9235ce679066fa8c",
         "type": "tabs",
         "children": [
           {
-            "id": "a50e3ba1d12c2ef4",
+            "id": "78620cf7deb2a76b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE 101/Periodic, Even, Odd Signals.md",
+                "file": "CSE 150B/A*.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "bed5a080235b86cc",
+            "id": "5c605fd87ecb18e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSE 156/Building a Transformer Based Language Model.md",
+                "file": "CSE 150B/MTCS.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "536ce3299e1af358",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ECE 101/Signals and Basic Operations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "549fd82789ef8935",
-            "type": "leaf",
-            "state": {
-              "type": "pdf-annotator",
-              "state": {
-                "file": "CSE 150B/Reading Annotations/Solving Problems By Searching.md"
               }
             }
           }
@@ -83,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sampling property",
+                "query": "bs ms",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSE 156/Building a Transformer Based Language Model.md",
+                "file": "CSE 150B/MTCS.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -138,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSE 156/Building a Transformer Based Language Model.md",
+                "file": "CSE 150B/MTCS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +128,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CSE 156/Building a Transformer Based Language Model.md",
+                "file": "CSE 150B/MTCS.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -196,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSE 156/Building a Transformer Based Language Model.md"
+                "file": "CSE 150B/MTCS.md"
               }
             }
           },
@@ -235,18 +213,27 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bed5a080235b86cc",
+  "active": "5c605fd87ecb18e7",
   "lastOpenFiles": [
-    "Media/Pasted image 20240513192628.png",
+    "CSE 150B/MTCS.md",
+    "Media/Pasted image 20240520154521.png",
+    "Media/Screenshot 2024-05-20 at 3.41.45 PM 1.png",
+    "Media/Screenshot 2024-05-20 at 3.41.45 PM.png",
+    "Media/Pasted image 20240520154245.png",
+    "CSE 150B/A*.md",
+    "Untitled.canvas",
     "ECE 101/Periodic, Even, Odd Signals.md",
+    "Career/BS MS ECE UCSD.md",
     "CSE 156/Building a Transformer Based Language Model.md",
+    "Media/Pasted image 20240515023440.png",
+    "ECE 101/Signals and Basic Operations.md",
+    "CSE 150B/Reading Annotations/Solving Problems By Searching.md",
+    "Media/Pasted image 20240513192628.png",
     "ECE 101/ECE 101.md",
     "ECE 101/Eigenfunction of LTI Systems.md",
-    "ECE 101/Signals and Basic Operations.md",
     "ECE 101/System Properties.md",
     "ECE 101/BIBO Stability.md",
     "CSE 150B/CSE 150B.md",
-    "CSE 150B/Reading Annotations/Solving Problems By Searching.md",
     "Media/AIMA Chapter 3.pdf",
     "CSE 150B/PA 2 - 2048.md",
     "CSE 150B/Reading Annotations",
@@ -266,22 +253,12 @@
     "ECE 101/Continuous Time CEs.md",
     "ECE 101/Complex Exponential Signals.md",
     "ECE 101/Two Classes of Signals.md",
-    "ECE 101/Continuous Time Unit Step and Unit Impulse.md",
     "Career",
-    "ECE 101/Representation Properties.md",
-    "ECE 101/Sampling Properties.md",
     "Media/Pasted image 20240416104138.png",
     "Media/Pasted image 20240416104136.png",
-    "Media/Pasted image 20240416102651.png",
     "CSE 156",
     "Planning",
-    "Media/Unit Impulse Signal Examples 2024-04-12 01.25.12.excalidraw.png",
-    "Media/Clicker 3.png",
-    "Media/Unit Impulse Signal Examples 2024-04-11 16.25.16.excalidraw.png",
-    "Media/Clicker 2.png",
-    "Media/Clicker 1.png",
     "Archive",
-    "Untitled.canvas",
     "ECE 101",
     "Templates",
     "Untitled 1.canvas",
