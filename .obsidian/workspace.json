@@ -4,23 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "9235ce679066fa8c",
+        "id": "115bec71d664825d",
         "type": "tabs",
         "children": [
           {
-            "id": "78620cf7deb2a76b",
+            "id": "be5ed5d9ece8a1c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSE 150B/A*.md",
+                "file": "ECE 101/Continuous Time Fourier Transform.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5c605fd87ecb18e7",
+            "id": "f89e1fab670171f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECE 101/Amplitude Modulation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "64be30a83d187caa",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,9 +42,25 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "db55ff07955dc849",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "0ec0c803e0bda72c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bs ms",
+                "query": "tag:CSE150B",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -193,13 +221,21 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "32c31ceb948100a8",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 357.5,
+    "width": 285,
     "collapsed": true
   },
   "left-ribbon": {
@@ -210,17 +246,26 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "copilot:Copilot Chat": false
     }
   },
-  "active": "5c605fd87ecb18e7",
+  "active": "64be30a83d187caa",
   "lastOpenFiles": [
+    "CSE 150B/Dijkstra.md",
+    "ECE 101/CTFT Sampling Theorem.md",
+    "Media/Pasted image 20240522012318.png",
+    "ECE 101/Amplitude Modulation.md",
+    "Media/Pasted image 20240522011604.png",
+    "Media/Pasted image 20240522010922.png",
+    "ECE 101/Continuous Time Fourier Transform.md",
+    "Media/Pasted image 20240521232400.png",
+    "CSE 150B/A*.md",
     "CSE 150B/MTCS.md",
     "Media/Pasted image 20240520154521.png",
     "Media/Screenshot 2024-05-20 at 3.41.45 PM 1.png",
     "Media/Screenshot 2024-05-20 at 3.41.45 PM.png",
     "Media/Pasted image 20240520154245.png",
-    "CSE 150B/A*.md",
     "Untitled.canvas",
     "ECE 101/Periodic, Even, Odd Signals.md",
     "Career/BS MS ECE UCSD.md",
@@ -246,16 +291,9 @@
     "CSE 156/Readings/Last Words - Computational Linguistics and Deep Learning.md",
     "CSE 156/Readings",
     "Untitled",
-    "Media/Pasted image 20240418021004.png",
     "ECE 101/Time-Invariant Property.md",
-    "Media/Pasted image 20240418020905.png",
     "Nolan's Tips for the Tech Industry.md",
-    "ECE 101/Continuous Time CEs.md",
-    "ECE 101/Complex Exponential Signals.md",
-    "ECE 101/Two Classes of Signals.md",
     "Career",
-    "Media/Pasted image 20240416104138.png",
-    "Media/Pasted image 20240416104136.png",
     "CSE 156",
     "Planning",
     "Archive",

@@ -21,7 +21,5 @@ Tags::
 	- Number of visits = number of trajectories that are unrolled from this node
 	- Number of wins for max player
 - After sampling once from each node from the root node, we choose the node that has the highest win rate.![[Screenshot 2024-05-20 at 3.41.45 PM 1.png]] ![[Pasted image 20240520154521.png]]
-- 
 
- 
 ## ❗ Should we continue to explore this subtree or nah? 
