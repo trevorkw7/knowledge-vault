@@ -22,5 +22,3 @@ Tags::
 - ![[Pasted image 20240522011604.png]]
 
  
-## ❗ Answer
-Best grocery store: vons

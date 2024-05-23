@@ -26,8 +26,7 @@ Tags::
 		- Mathematically
 			- $x_{p}(t) = x(t)p(t) = x(t)\sum_{n=-\infty}^\infty\delta(t-nT)$ 
 			- $=\sum_{n=-\infty}^\infty x(nT)\delta(t-nT)$
-		- This exactly a train of impulses bounded by the envelope $x(t)$ with distances $T$ 
-- To incorporate CTFT:
+		- This exactly a train of impulses bounded by the envelope $x(t)$ with distances $T$ x
 
  
 ## ❗ Answer

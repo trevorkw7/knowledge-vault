@@ -25,42 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE 101/Amplitude Modulation.md",
+                "file": "ECE 101/CTFT Sampling Theorem.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "64be30a83d187caa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSE 150B/MTCS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db55ff07955dc849",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "0ec0c803e0bda72c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.00390243530273,
-    "collapsed": true
+    "width": 344.00390243530273
   },
   "right": {
     "id": "e855edb8622abb85",
@@ -127,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSE 150B/MTCS.md",
+                "file": "ECE 101/CTFT Sampling Theorem.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -144,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSE 150B/MTCS.md",
+                "file": "ECE 101/CTFT Sampling Theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CSE 150B/MTCS.md",
+                "file": "ECE 101/CTFT Sampling Theorem.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -202,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSE 150B/MTCS.md"
+                "file": "ECE 101/CTFT Sampling Theorem.md"
               }
             }
           },
@@ -250,18 +221,20 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "64be30a83d187caa",
+  "active": "f89e1fab670171f3",
   "lastOpenFiles": [
+    "ECE 101/Amplitude Modulation.md",
+    "CSE 150B/MTCS.md",
+    "CSE 150B/Constraint Solving.md",
+    "Media/Pasted image 20240522181430.png",
     "CSE 150B/Dijkstra.md",
     "ECE 101/CTFT Sampling Theorem.md",
     "Media/Pasted image 20240522012318.png",
-    "ECE 101/Amplitude Modulation.md",
     "Media/Pasted image 20240522011604.png",
     "Media/Pasted image 20240522010922.png",
     "ECE 101/Continuous Time Fourier Transform.md",
     "Media/Pasted image 20240521232400.png",
     "CSE 150B/A*.md",
-    "CSE 150B/MTCS.md",
     "Media/Pasted image 20240520154521.png",
     "Media/Screenshot 2024-05-20 at 3.41.45 PM 1.png",
     "Media/Screenshot 2024-05-20 at 3.41.45 PM.png",
@@ -273,7 +246,6 @@
     "Media/Pasted image 20240515023440.png",
     "ECE 101/Signals and Basic Operations.md",
     "CSE 150B/Reading Annotations/Solving Problems By Searching.md",
-    "Media/Pasted image 20240513192628.png",
     "ECE 101/ECE 101.md",
     "ECE 101/Eigenfunction of LTI Systems.md",
     "ECE 101/System Properties.md",
@@ -291,8 +263,6 @@
     "CSE 156/Readings/Last Words - Computational Linguistics and Deep Learning.md",
     "CSE 156/Readings",
     "Untitled",
-    "ECE 101/Time-Invariant Property.md",
-    "Nolan's Tips for the Tech Industry.md",
     "Career",
     "CSE 156",
     "Planning",
