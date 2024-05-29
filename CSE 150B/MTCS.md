@@ -48,3 +48,8 @@ Tags::
 
 
 ## Written Synthesis
+![[Pasted image 20240529140323.jpg]]
+
+![[Pasted image 20240529140323 1.jpg]]
+
+![[Pasted image 20240529140323 2.jpg]]
