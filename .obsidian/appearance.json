@@ -1,11 +1,3 @@
 {
-  "accentColor": "",
-  "interfaceFontFamily": "Charter,Inter,Futura,Academy Engraved LET",
-  "translucency": false,
-  "cssTheme": "AnuPpuccin",
-  "theme": "obsidian",
-  "baseFontSize": 21,
-  "enabledCssSnippets": [
-    "Extended Colorschemes"
-  ]
+  "accentColor": ""
 }

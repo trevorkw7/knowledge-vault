@@ -45,3 +45,6 @@ Tags::
 	- Our upper confidence bound is: $X_{1} + \epsilon$, the best we can do with high probability
 	- Thus substituting $X_{1}$ with our upper confidence bound we get: $\mu_{1} + 2\epsilon_{1} \geq \mu_{2}$
 - Results in exponentially less bad plays
+
+
+## Written Synthesis

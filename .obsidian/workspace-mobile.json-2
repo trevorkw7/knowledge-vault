@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "36139ec052b91ae4",
+    "id": "5e85753cdf5055a2",
     "type": "split",
     "children": [
       {
-        "id": "08e82c61cbe89218",
+        "id": "5d4d19fef094a573",
         "type": "tabs",
         "children": [
           {
-            "id": "95b878eab60dd385",
+            "id": "c3abf78ffe1cbe0b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSE 150B/MTCS.md",
+                "file": "CSE 150B/A*.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,11 +25,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6569faf641ef6e9c",
+    "id": "92a1b61b625edd60",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "eadcc63da40773b6",
+        "id": "2f16d59d9ecdbe2e",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -39,7 +39,7 @@
         }
       },
       {
-        "id": "7d64adeca147e14b",
+        "id": "93bb58881960c6d7",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -54,7 +54,7 @@
         }
       },
       {
-        "id": "fe71fbac6de04cff",
+        "id": "924a2bf57b374d40",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -65,7 +65,7 @@
         }
       },
       {
-        "id": "82c809ef1933ec38",
+        "id": "b6e86faf5dd7920f",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -76,16 +76,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "114e9680081688d0",
+    "id": "6cc2da1de99072f2",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "fb5436be79ee03f3",
+        "id": "cd998770602b44c9",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "CSE 150B/MTCS.md",
+            "file": "CSE 150B/A*.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,24 +97,24 @@
         }
       },
       {
-        "id": "066fa623866fc91e",
+        "id": "87cb5454e6e252b0",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "CSE 150B/MTCS.md",
+            "file": "CSE 150B/A*.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "11a1daa8d700b46a",
+        "id": "f336eefbb26f86b8",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "CSE 150B/MTCS.md"
+            "file": "CSE 150B/A*.md"
           }
         }
       }
@@ -128,57 +128,57 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "95b878eab60dd385",
+  "active": "c3abf78ffe1cbe0b",
   "lastOpenFiles": [
-    "CSE 150B/Reading Annotations/Solving Problems By Searching.md",
-    "CSE 150B/Search Problems.md",
-    "CSE 150B/Separation Property.md",
-    "CSE 150B/Constraint Solving.md",
-    "CSE 150B/DFS and BFS.md",
-    "CSE 150B/CSE 150B.md",
-    "CSE 150B/Reading Annotations",
-    "CSE 150B/Dijkstra.md",
-    "CSE 150B/PA1.md",
-    "CSE 150B/A*.md",
-    "CSE 150B/PA 2 - 2048.md",
-    "CSE 150B/MTCS.md",
-    "CSE 150B",
-    "Career/BS MS ECE UCSD.md",
-    "Career",
-    "Untitled.canvas",
-    "Media/Pasted image 20231107114206.png",
-    "Media/Pasted image 20240110190521.png",
-    "Media/Pasted image 20231020123429.png",
-    "Media/Pasted image 20231020123549.png",
-    "Media/Pasted image 20231022214915.png",
-    "Media/Pasted image 20231031232814.png",
-    "Media/Pasted image 20231214175413.png",
-    "Media/Pasted image 20231214191756.png",
-    "Media/Pasted image 20231107122825.png",
-    "Media/Clicker 1.png",
-    "Media/Unit Impulse Signals 2024-04-11 00.37.26.excalidraw.md",
-    "Media/Unit Impulse Signals 2024-04-11 00.43.45.excalidraw.md",
+    "Media/Pasted Image 20240412013506_981.png",
     "Media/Unit Impulse Signal Examples 2024-04-11 15.52.12.excalidraw.md",
-    "Media/Unit Impulse Signal Examples 2024-04-12 01.25.12.excalidraw.md",
-    "Media/Unit Impulse Signals 2024-04-11 00.40.36.excalidraw.md",
-    "Media/Unit Impulse Signals 2024-04-11 00.15.05.excalidraw.md",
-    "Media/AIMA Chapter 3.pdf",
-    "Media/Unit Impulse Signal Examples 2024-04-11 16.25.16.excalidraw.md",
-    "Media/Unit Impulse Signals 2024-04-10 23.59.41.excalidraw.md",
-    "Media/ECE 65 Lecture 9.pdf",
-    "Media",
-    "Nolan's Tips for the Tech Industry.md",
-    "CSE 156/Readings/Last Words - Computational Linguistics and Deep Learning.md",
-    "CSE 156/Readings/A Neural Probabilistic Language Model.md",
-    "CSE 156/Readings",
+    "Media/Clicker 1.png",
     "CSE 156/Multi-Layer.md",
-    "CSE 156/Building a Transformer Based Language Model.md",
-    "CSE 156/LSTM RNNs.md",
     "CSE 156",
-    "Templates",
-    "ECE 101"
+    "Media/Unit Impulse Signals 2024-04-11 00.43.45.excalidraw.md",
+    "Media/Unit Impulse Signals 2024-04-10 23.59.41.excalidraw.md",
+    "Media/Clicker 2.png",
+    "Media/Unit Impulse Signal Examples 2024-04-11 16.25.16.excalidraw.md",
+    "Media/Unit Impulse Signals 2024-04-11 00.37.26.excalidraw.md",
+    "Media/Pasted Image 20240412012542_677.png",
+    "Media/Clicker 3.png",
+    "Media/Pasted image 20240416104136.png",
+    "Media/Pasted Image 20240411162531_188.png",
+    "Media/Pasted image 20240416104138.png",
+    "Templates/CSE 156 Note.md",
+    "Archive/Calhacks 2023/CalHacks Todo.md",
+    "Archive/CSE 152A/Representation of Shapes.md",
+    "Archive/CSE 152A/Photometric Stereo.md",
+    "Archive/CSE 152A/CSE 152A.md",
+    "Archive/CSE 152A/CNNs for Classification.md",
+    "Archive/CSE 152A/Representation of Images.md",
+    "Archive/CSE 152A/Representation of Motion.md",
+    "Archive/CSE 152A/Computer Vision Matching.md",
+    "Archive/CSE 152A/Camera Projection.md",
+    "Archive/Calhacks 2023",
+    "Archive/CSE 152A",
+    "Archive/ECE 109",
+    "Archive",
+    "Archive/Calhacks 2023/Calhacks.md",
+    "BS MS ECE UCSD.md",
+    "Media/Pasted image 20240416102651.png",
+    "Templates/ECE 101 Template.md",
+    "Archive/ECE 65/BJTs.md",
+    "Archive/ECE 65/Transistor Amplifiers.md",
+    "Archive/ECE 65/NPN Transistor.md",
+    "Archive/ECE 65/Clamp Circuits.md",
+    "Archive/ECE 65/ECE 65 MOC.md",
+    "Archive/ECE 65/Discussion Question 1.md",
+    "Archive/ECE 65",
+    "Media/Pasted image 20240410235150.png",
+    "Media/Pasted Image 20240411155227_539.png",
+    "Archive/CSE 105/Word",
+    "Archive/CSE 105",
+    "Archive/CSE 110",
+    "Archive/CSE 140"
   ]
 }
