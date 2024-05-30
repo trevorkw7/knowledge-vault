@@ -14,6 +14,7 @@ Tags:: [[Continuous Time Fourier Transform]]
 
 # ❗ Overview
 - Use case: To convert signals from time domain to frequency domain that have infinite energy
-- Example: 
+- Example: ![[Pasted image 20240529235402.png]]
+- 
  
 ## ❗ Answer
