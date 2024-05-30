@@ -22,7 +22,7 @@ Tags:: [[Continuous Time Fourier Transform]]
 - ROC / Reigon of Convergence is the range for $s$ in which $X(s)$ exists 
 
 ### Relation with [[Continuous Time Fourier Transform]]
-- If we substitute $s =\sigma +j\omega$ , we actually arrive on a form in this integral that resembles the definition of CTFS as seen below
+- If we substitute $s =\sigma +j\omega$ , we actually arrive on a form in this integral that resembles the definition of CTFS as seen below: ![[Pasted image 20240530001317.png]]
 - 
  
 ## ❗ Answer
