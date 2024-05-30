@@ -18,7 +18,8 @@ Tags:: [[Continuous Time Fourier Transform]]
 
 
 ### Definition
-
+![[Pasted image 20240529235653.png]]
+- 
 
  
 ## ❗ Answer
