@@ -26,5 +26,5 @@ Tags:: [[Continuous Time Fourier Transform]]
 	- $\sigma$ is the real part of the complex variable $s$
 - If we substitute $s =\sigma +j\omega$ , we actually arrive on a form in this integral that resembles the definition of CTFS as seen below: ![[Pasted image 20240530001317.png]]
 - Since [[Laplace Transform]] is a subset / form of CTFS, we can say that:
-	- If the **Laplace Transform** 
+	- If the **Laplace Transform** $X(s)$ exists, then 
 ## ❗ Answer
