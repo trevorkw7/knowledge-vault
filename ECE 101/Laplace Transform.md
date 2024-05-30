@@ -19,7 +19,8 @@ Tags:: [[Continuous Time Fourier Transform]]
 
 ### Definition
 ![[Pasted image 20240529235653.png]]
-- ROC / Reigon of Convergence is the range in which $X(s)$ exists 
+- ROC / Reigon of Convergence is the range for $s$ in which $X(s)$ exists 
+- 
 
  
 ## ❗ Answer
