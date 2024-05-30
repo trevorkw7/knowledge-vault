@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSE 150B/MTCS.md",
+                "file": "ECE 101/Laplace Transform.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "CSE 150B/MTCS.md",
+            "file": "ECE 101/Laplace Transform.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "CSE 150B/MTCS.md",
+            "file": "ECE 101/Laplace Transform.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "CSE 150B/MTCS.md"
+            "file": "ECE 101/Laplace Transform.md"
           }
         }
       }
@@ -133,6 +133,12 @@
   },
   "active": "95b878eab60dd385",
   "lastOpenFiles": [
+    "ECE 101/Additive.md",
+    "Untitled 2.md",
+    "Untitled.canvas",
+    "Untitled 1.md",
+    "ECE 101/Laplace Transform.md",
+    "CSE 150B/MTCS.md",
     "Pasted image 20240529140323 2.jpg",
     "Pasted image 20240529140323 1.jpg",
     "Pasted image 20240529140323.jpg",
@@ -147,11 +153,9 @@
     "CSE 150B/PA1.md",
     "CSE 150B/A*.md",
     "CSE 150B/PA 2 - 2048.md",
-    "CSE 150B/MTCS.md",
     "CSE 150B",
     "Career/BS MS ECE UCSD.md",
     "Career",
-    "Untitled.canvas",
     "Media/Pasted image 20231107114206.png",
     "Media/Pasted image 20240110190521.png",
     "Media/Pasted image 20231020123429.png",
@@ -159,7 +163,6 @@
     "Media/Pasted image 20231022214915.png",
     "Media/Pasted image 20231031232814.png",
     "Media/Pasted image 20231214175413.png",
-    "Media/Pasted image 20231214191756.png",
     "Media/Unit Impulse Signals 2024-04-11 00.37.26.excalidraw.md",
     "Media/Unit Impulse Signals 2024-04-11 00.43.45.excalidraw.md",
     "Media/Unit Impulse Signal Examples 2024-04-11 15.52.12.excalidraw.md",
@@ -173,10 +176,7 @@
     "Media",
     "Nolan's Tips for the Tech Industry.md",
     "CSE 156/Readings/Last Words - Computational Linguistics and Deep Learning.md",
-    "CSE 156/Readings/A Neural Probabilistic Language Model.md",
     "CSE 156/Readings",
-    "CSE 156/Multi-Layer.md",
-    "CSE 156/Building a Transformer Based Language Model.md",
     "CSE 156",
     "Templates",
     "ECE 101"
