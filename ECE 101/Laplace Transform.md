@@ -25,5 +25,6 @@ Tags:: [[Continuous Time Fourier Transform]]
 - $s=\sigma + j\omega$
 	- $\sigma$ is the real part of the complex variable $s$
 - If we substitute $s =\sigma +j\omega$ , we actually arrive on a form in this integral that resembles the definition of CTFS as seen below: ![[Pasted image 20240530001317.png]]
-- 
+- Since [[Laplace Transform]] is a subset / form of CTFS, we can say that:
+	- 
 ## ❗ Answer
