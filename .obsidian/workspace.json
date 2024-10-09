@@ -8,31 +8,26 @@
         "type": "tabs",
         "children": [
           {
-            "id": "be5ed5d9ece8a1c2",
+            "id": "ef622e037956980b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ECE 101/Continuous Time Fourier Transform.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
-            "id": "f89e1fab670171f3",
+            "id": "b8fedeb219c791f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE 101/CTFT Sampling Theorem.md",
+                "file": "CSE 141/ISA.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.00390243530273
+    "width": 200
   },
   "right": {
     "id": "e855edb8622abb85",
@@ -98,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ECE 101/CTFT Sampling Theorem.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ECE 101/CTFT Sampling Theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +120,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "ECE 101/CTFT Sampling Theorem.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -172,9 +164,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ECE 101/CTFT Sampling Theorem.md"
-              }
+              "state": {}
             }
           },
           {
@@ -202,12 +192,11 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 285,
-    "collapsed": true
+    "width": 285
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,54 +210,55 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "f89e1fab670171f3",
+  "active": "85413c0bdd507572",
   "lastOpenFiles": [
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "Pasted image 20240530001317.png",
+    "Pasted image 20240529235653.png",
+    "Pasted image 20240529235402.png",
+    "Pasted image 20240529140323.jpg",
+    "Pasted image 20240529140323 2.jpg",
+    "Pasted image 20240529140323 1.jpg",
+    "ECE 101/Laplace Transform.md",
+    "CSE 141/Course Goals.md",
+    "Archive/CSE 105/Simulating NFA with DFA.md",
+    "CSE 141/Measuring Performance.md",
+    "CSE 141/ISA.md",
+    "Media/Pasted image 20241008132620.png",
+    "Media/Pasted image 20241008130952.png",
+    "Implementing SLAM/Visual Odometry.md",
+    "ECE 101/Continuous Time Fourier Transform.md",
+    "Nolan's Tips for the Tech Industry.md",
+    "ECE 101/Untitled.md",
+    "CSE 141",
+    "Bible",
+    "ECE 101/CTFT Sampling Theorem.md",
+    "Career/BS MS ECE UCSD.md",
+    "ECE 101/Fourier Transform of DT Signals.md",
     "ECE 101/Amplitude Modulation.md",
     "CSE 150B/MTCS.md",
     "CSE 150B/Constraint Solving.md",
     "Media/Pasted image 20240522181430.png",
     "CSE 150B/Dijkstra.md",
-    "ECE 101/CTFT Sampling Theorem.md",
     "Media/Pasted image 20240522012318.png",
-    "Media/Pasted image 20240522011604.png",
-    "Media/Pasted image 20240522010922.png",
-    "ECE 101/Continuous Time Fourier Transform.md",
-    "Media/Pasted image 20240521232400.png",
     "CSE 150B/A*.md",
-    "Media/Pasted image 20240520154521.png",
-    "Media/Screenshot 2024-05-20 at 3.41.45 PM 1.png",
-    "Media/Screenshot 2024-05-20 at 3.41.45 PM.png",
-    "Media/Pasted image 20240520154245.png",
     "Untitled.canvas",
     "ECE 101/Periodic, Even, Odd Signals.md",
-    "Career/BS MS ECE UCSD.md",
     "CSE 156/Building a Transformer Based Language Model.md",
-    "Media/Pasted image 20240515023440.png",
     "ECE 101/Signals and Basic Operations.md",
     "CSE 150B/Reading Annotations/Solving Problems By Searching.md",
     "ECE 101/ECE 101.md",
     "ECE 101/Eigenfunction of LTI Systems.md",
     "ECE 101/System Properties.md",
-    "ECE 101/BIBO Stability.md",
-    "CSE 150B/CSE 150B.md",
     "Media/AIMA Chapter 3.pdf",
-    "CSE 150B/PA 2 - 2048.md",
     "CSE 150B/Reading Annotations",
-    "ECE 101/Linear Property.md",
-    "ECE 101/Inevitability.md",
-    "ECE 101/Causal Property.md",
-    "ECE 101/Scalable.md",
-    "ECE 101/Additive.md",
-    "CSE 156/Readings/A Neural Probabilistic Language Model.md",
-    "CSE 156/Readings/Last Words - Computational Linguistics and Deep Learning.md",
     "CSE 156/Readings",
-    "Untitled",
+    "Implementing SLAM",
     "Career",
     "CSE 156",
     "Planning",
     "Archive",
-    "ECE 101",
-    "Templates",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
     "Untitled 3.canvas",
