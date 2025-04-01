@@ -4,30 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "115bec71d664825d",
+        "id": "929a005e8298139c",
         "type": "tabs",
         "children": [
           {
-            "id": "ef622e037956980b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "b8fedeb219c791f3",
+            "id": "1602357dc746c2d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSE 141/ISA.md",
+                "file": "CSE 120/Process Memory Structure.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Process Memory Structure"
+            }
+          },
+          {
+            "id": "159b8f43751a0304",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Archive/Calhacks 2023/Calhacks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Calhacks"
+            }
+          },
+          {
+            "id": "1e11856b81a57853",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSE 120/Branch Prediction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Branch Prediction"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -46,8 +69,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
-              }
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -56,13 +82,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:CSE150B",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -70,7 +98,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -93,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Pipelining.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -100,7 +131,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Pipelining"
             }
           },
           {
@@ -109,9 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CSE 120/Branch Prediction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Branch Prediction"
             }
           },
           {
@@ -120,6 +156,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "CSE 120/Branch Prediction.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -145,7 +182,9 @@
                   "scale": 0.05174309355457934,
                   "close": true
                 }
-              }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Branch Prediction"
             }
           },
           {
@@ -155,8 +194,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -164,7 +207,14 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CSE 120/Branch Prediction.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Branch Prediction"
             }
           },
           {
@@ -172,7 +222,9 @@
             "type": "leaf",
             "state": {
               "type": "git-history-view",
-              "state": {}
+              "state": {},
+              "icon": "history",
+              "title": "History"
             }
           },
           {
@@ -180,7 +232,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -188,11 +242,13 @@
             "type": "leaf",
             "state": {
               "type": "copilot-chat-view",
-              "state": {}
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -207,50 +263,52 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "copilot:Copilot Chat": false
+      "copilot:Copilot Chat": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "85413c0bdd507572",
+  "active": "3d455f1d1695645a",
   "lastOpenFiles": [
-    "Untitled 2.md",
-    "Untitled 1.md",
-    "Pasted image 20240530001317.png",
-    "Pasted image 20240529235653.png",
-    "Pasted image 20240529235402.png",
-    "Pasted image 20240529140323.jpg",
-    "Pasted image 20240529140323 2.jpg",
-    "Pasted image 20240529140323 1.jpg",
-    "ECE 101/Laplace Transform.md",
-    "CSE 141/Course Goals.md",
-    "Archive/CSE 105/Simulating NFA with DFA.md",
-    "CSE 141/Measuring Performance.md",
-    "CSE 141/ISA.md",
+    "Untitled.md",
+    "CSE 120/Branch Prediction.md",
+    "CSE 120/Pasted image 20250122210310.png",
+    "CSE 120/Stack Pointer.md",
+    "CSE 120/Activation Record.md",
+    "CSE 120/Pasted image 20250122205117.png",
+    "CSE 120/Resources.md",
+    "Introduction to Visual Learning/Introduction.md",
+    "Introduction to Visual Learning",
+    "Archive/Calhacks 2023/CalHacks Todo.md",
+    "Archive/Calhacks 2023/Calhacks.md",
+    "CSE 120/Process Memory Structure.md",
+    "CSE 120/Process.md",
+    "CSE 120/Detailed Look at Process Stack.md",
+    "CSE 120/Context.md",
+    "CSE 120/Kernel.md",
+    "CSE 120/Chapter 1 Exercises.md",
+    "CSE 120/Policy.md",
+    "CSE 120/Mechanism.md",
+    "CSE 120/Operating System Definition.md",
+    "CSE 120/Abstraction.md",
+    "CSE 120/Context Switching.md",
+    "CSE 120/Lecture 2.md",
+    "Planning/Project Ideas.md",
+    "CSE 120/CSE 120 HW1.md",
+    "CSE 120/Scheduling.md",
+    "CSE 120/CSE 120.md",
+    "CSE 120/Multiprogramming.md",
+    "CSE 120/Yield.md",
+    "Untitled.canvas",
+    "Media/Pasted image 20240529140323 1.jpg",
+    "Media/Pasted image 20240529140323 2.jpg",
+    "Media/Pasted image 20240529235653.png",
+    "Media/Pasted image 20240529235402.png",
+    "Media/Pasted image 20240529140323.jpg",
+    "Media/Pasted image 20240530001317.png",
     "Media/Pasted image 20241008132620.png",
     "Media/Pasted image 20241008130952.png",
-    "Implementing SLAM/Visual Odometry.md",
-    "ECE 101/Continuous Time Fourier Transform.md",
-    "Nolan's Tips for the Tech Industry.md",
-    "ECE 101/Untitled.md",
     "CSE 141",
     "Bible",
-    "ECE 101/CTFT Sampling Theorem.md",
-    "Career/BS MS ECE UCSD.md",
-    "ECE 101/Fourier Transform of DT Signals.md",
-    "ECE 101/Amplitude Modulation.md",
-    "CSE 150B/MTCS.md",
-    "CSE 150B/Constraint Solving.md",
-    "Media/Pasted image 20240522181430.png",
-    "CSE 150B/Dijkstra.md",
-    "Media/Pasted image 20240522012318.png",
-    "CSE 150B/A*.md",
-    "Untitled.canvas",
-    "ECE 101/Periodic, Even, Odd Signals.md",
-    "CSE 156/Building a Transformer Based Language Model.md",
-    "ECE 101/Signals and Basic Operations.md",
-    "CSE 150B/Reading Annotations/Solving Problems By Searching.md",
-    "ECE 101/ECE 101.md",
-    "ECE 101/Eigenfunction of LTI Systems.md",
-    "ECE 101/System Properties.md",
     "Media/AIMA Chapter 3.pdf",
     "CSE 150B/Reading Annotations",
     "CSE 156/Readings",
@@ -258,7 +316,6 @@
     "Career",
     "CSE 156",
     "Planning",
-    "Archive",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
     "Untitled 3.canvas",

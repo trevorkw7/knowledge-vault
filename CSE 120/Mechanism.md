@@ -1,0 +1,2 @@
+- Defines how we create the illusion in an [[Abstraction]]
+- Fixed, mechanism is designed with OS and doesn't change afterwards

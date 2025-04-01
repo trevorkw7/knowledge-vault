@@ -1,0 +1,2 @@
+- Defines how we use the mechanism to meet a goal
+- Many possible different implementations, and we usually select the best for the given situation
